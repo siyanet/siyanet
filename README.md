@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @siyanet
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning in Bahirdar University
+- 👋 Hi, I’m siyanet
+- 👀 
 
 
 <!---
